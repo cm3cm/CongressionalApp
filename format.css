@@ -10,3 +10,7 @@ h5 {
   background-color: MediumSeaGreen;
   width: 25%
 } */
+img {
+  width: 100% !important;
+  max-width: 200px !important;
+}
